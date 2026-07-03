@@ -1,0 +1,6 @@
+{
+  "name": "電子上香模擬器 (Cyber Incense Simulator)",
+  "description": "A bizarre, darkly comedic casino-crawler combining traditional Asian worship, incense offering, and ancestral sacrifice with hardcore gambling mechanics. Gamble your Merit (功德) and Hell Money (冥紙) to appease the gods!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
